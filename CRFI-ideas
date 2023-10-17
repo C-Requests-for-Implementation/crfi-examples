@@ -1,0 +1,30 @@
+CRFI ideas list
+---------------
+
+requires
+
+common macros
+counter
+type traits
+optional/just
+
+typeid
+bump allocator
+light coroutines (microthreads/stackless)
+heavy coroutines (fibres/stackful)
+linear math
+defer
+
+algorithms
+
+containers-list
+containers-map
+containers-vec
+containers-etc
+containers-intrusive
+containers-owning
+
+namespacing
+gc memory
+cryptographic hashes (no examples)
+tiny lambda
